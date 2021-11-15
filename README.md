@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @m-bhosale
+- 👋 Hi, I’m mangesh bhosale 
 - 👀 I’m interested in Softwate Development
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on React project
